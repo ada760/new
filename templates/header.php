@@ -14,7 +14,11 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
         integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
         crossorigin=""/>
-  <!-- Vos styles personnalisés (si nécessaire) -->
-  <link href="/styles/globals.css" rel="stylesheet">
+  <!-- Leaflet JavaScript -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+          crossorigin=""></script>
+  <!-- Vos styles personnalisés -->
+  <link href="/styles/style.css" rel="stylesheet">
 </head>
 <body class="bg-gray-900 min-h-screen text-white px-8 py-8">
